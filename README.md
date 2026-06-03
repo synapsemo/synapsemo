@@ -59,10 +59,6 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
@@ -108,38 +104,46 @@
 
 <p align="center">
   <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Azure -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- GCP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- RabbitMQ -->
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Celery -->
-  <img src="https://docs.celeryq.dev/en/stable/_static/celery_128.png" alt="Celery" width="40" height="40"/> 
+  <img src="https://docs.celeryq.dev/en/stable/_static/celery_128.png" alt="Celery" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Nginx -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Server Management" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
 </p>
-
----
-
 ### 📊 Data Science & Processing
 
 *Extracting insights from raw data at scale.*
 
 <p align="center">
   <!-- NumPy -->
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" />
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="50" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Pandas -->
-  <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" width="50" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Polars -->
-  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo.svg" alt="Polars" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo.svg" alt="Polars" width="50" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Scikit Learn -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit Learn" width="50" height="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---

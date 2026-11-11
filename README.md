@@ -17,8 +17,6 @@
 <!--Profile Views & Contact Badges-->
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/🌐_Visit_My_Portfolio-abhaymanhas.me-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white)](https://abhaymanhas.me)
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaymanhas19/)
   [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manhasabhay000@gmail.com)
   
   <img src="https://komarev.com/ghpvc/?username=abhaymanhas19&label=Profile%20views&color=8A2BE2&style=flat-square" alt="Profile views" />

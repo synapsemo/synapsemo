@@ -34,7 +34,6 @@
 - 🌱 Deep diving into **Multi-Agent AI Systems** using CrewAI & Autogen.
 - 💬 Ask me about **Django, FastAPI, Docker, Kubernetes, and MLOps**.
 - ⚡ Fun fact: **Time spent debugging is not wasted, it's a learning investment.**
-- 📬 Reach me anytime: **manhasabhay000@gmail.com**
 
 <br/>
 <br/>
